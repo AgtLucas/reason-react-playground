@@ -2,7 +2,7 @@ const path = require('path')
 
 module.exports = {
   entry: {
-    simple: './lib/js/src/simpleRoot.js'
+    simple: './lib/js/src/root.js'
   },
 
   output: {
