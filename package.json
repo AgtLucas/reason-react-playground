@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "bsb -make-world -w",
+    "start": "bsb -make-world -w",
     "build": "webpack -w",
     "clean": "bsb -clean-world"
   },
